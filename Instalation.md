@@ -1,4 +1,35 @@
-<h1 id="aicut---effortless-background-removal"><strong>AICut - Effortless Background Removal</strong></h1>
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Instalation</title>
+  <link rel="stylesheet" href="https://stackedit.io/style.css" />
+</head>
+
+<body class="stackedit">
+  <div class="stackedit__left">
+    <div class="stackedit__toc">
+      
+<ul>
+<li><a href="#aicut---effortless-background-removal">AICut - Effortless Background Removal</a>
+<ul>
+<li><a href="#app-version">App Version</a></li>
+<li><a href="#pub-get">Pub Get</a></li>
+<li><a href="#open-device">Open Device</a></li>
+<li><a href="#run-application">Run Application</a></li>
+<li><a href="#if-face-any-issue">If face any issue</a></li>
+<li><a href="#change-theme">Change Theme</a></li>
+</ul>
+</li>
+</ul>
+
+    </div>
+  </div>
+  <div class="stackedit__right">
+    <div class="stackedit__html">
+      <h1 id="aicut---effortless-background-removal"><strong>AICut - Effortless Background Removal</strong></h1>
 <h2 id="app-version">App Version</h2>
 <p>Ensure The flutter version <code>Flutter 3.19.5 or higher</code></p>
 <p><img src="https://raw.githubusercontent.com/taufiqurSabbir/image_background_remove_flutter/main/asset/install/Screenshot_1.png?token=GHSAT0AAAAAACRI6UMDJJSMEOK6MN6VT6QEZSHOBSA" alt="enter image description here"></p>
@@ -20,3 +51,8 @@
 <h2 id="change-theme">Change Theme</h2>
 <p><img src="https://raw.githubusercontent.com/taufiqurSabbir/image_background_remove_flutter/main/asset/install/Screenshot_8.png?token=GHSAT0AAAAAACRI6UMCWPVT6ZNOEES24A3MZSHOGLQ" alt="enter image description here"></p>
 
+    </div>
+  </div>
+</body>
+
+</html>
