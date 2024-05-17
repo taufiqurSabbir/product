@@ -28,9 +28,9 @@
     <div class="stackedit__html">
       <h1 id="aicut---effortless-background-removal"><strong>AICut - Effortless Background Removal</strong></h1>
 <p>AICut is a cutting-edge app powered by our proprietary Python AI model, designed to effortlessly remove image backgrounds. Whether you’re a photographer, designer, or social media enthusiast, AICut provides a seamless and intuitive experience for creating stunning, background-free images in seconds. Elevate your visuals with precision and ease—experience the power of AI with AICut today!</p>
-<p><img src="https://raw.githubusercontent.com/taufiqurSabbir/image_background_remove_flutter/main/asset/images/4937036.png?token=GHSAT0AAAAAACRI6UMCFAHQFM43W6I5ELIGZSHMU6A" alt="enter image description here"></p>
+<p><img src="https://raw.githubusercontent.com/taufiqurSabbir/image_background_remove_flutter/main/asset/images/4937036.png?token=GHSAT0AAAAAACRI6UMDMTXHXUOLRIKDVOT6ZSHO2SA" alt="enter image description here"></p>
 <h2 id="app-screens">App Screens</h2>
-<p><img src="https://raw.githubusercontent.com/taufiqurSabbir/image_background_remove_flutter/main/asset/images/Screenshot_3.png?token=GHSAT0AAAAAACRI6UMDU4RZY56TUI5DOEQIZSHMVTQ" alt="enter image description here"></p>
+<p><img src="https://raw.githubusercontent.com/taufiqurSabbir/image_background_remove_flutter/main/asset/images/Screenshot_3.png?token=GHSAT0AAAAAACRI6UMDRFP76CC33UIJPDMOZSHO26A" alt="enter image description here"></p>
 <h2 id="about-app">About App</h2>
 <ul>
 <li>Build With Flutter</li>
